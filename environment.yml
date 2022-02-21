@@ -1,0 +1,13 @@
+name: udacity
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - pytest
+  - requests
+  - conda-forge::dvc=2.9.3
+  - conda-forge::fastapi=0.63.0
+  - conda-forge::uvicorn
+  - conda-forge::gunicorn
