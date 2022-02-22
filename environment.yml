@@ -11,3 +11,4 @@ dependencies:
   - conda-forge::fastapi=0.63.0
   - conda-forge::uvicorn
   - conda-forge::gunicorn
+  - conda-forge::dvc-s3
